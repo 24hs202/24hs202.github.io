@@ -1,0 +1,97 @@
+body{
+font-size: 18px;
+margin: 0;
+
+.表紙 {
+background:#F4A460;
+color: white;
+text-align: center;
+padding: 60px 5px;
+}
+表紙 a {
+color: white;
+padding: 5px 10px;
+margin: 0 3px;
+border: solid 1px white;
+border-radius: 10px;
+transition: all .5s;
+}
+.表紙 a:hover {
+background: white;
+color:#F4A460;
+}
+
+
+.春 {
+background:#FFBEDA	;
+padding: 10px 0 40px 0;
+}
+.春 h2 {
+color: white;
+text-align: center;
+margin: 40px 0;
+}
+.春img {
+width: 100%;
+}
+
+.mokuji {
+background: white;
+}
+.mokuji {
+width: 250px;
+}
+.mokuji {
+padding: 10px;
+}
+.mokuji {
+margin: 30px auto;
+}
+.mokuji {
+border-radius: 10px;
+}
+.mokuji a:hover {
+color: #FFBEDA;
+}
+.mokuji h3 {
+text-align: center;
+}
+
+.夏{
+background:#66CC99	;
+padding: 10px 0 40px 0;
+}
+.夏 h2 {
+color: white;
+text-align: center;
+margin: 40px 0;
+}
+.夏img {
+width: 100%;
+}
+.夏 a:hover {
+background: white;
+color:#66CC99	;
+}
+
+.mokuji2 {
+background: white;
+}
+.mokuji2 {
+width: 250px;
+}
+.mokuji2 {
+padding: 10px;
+}
+.mokuji2 {
+margin: 30px auto;
+}
+.mokuji2 {
+border-radius: 10px;
+}
+.mokuji2 a:hover {
+color:#66CC99;
+}
+.mokuji2 h3 {
+text-align: center;
+}
