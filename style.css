@@ -95,3 +95,38 @@ color:#66CC99;
 .mokuji2 h3 {
 text-align: center;
 }
+
+.秋 {
+background:#FFBEDA	;
+padding: 10px 0 40px 0;
+}
+.秋 h2 {
+color: white;
+text-align: center;
+margin: 40px 0;
+}
+.秋img {
+width: 100%;
+}
+
+.mokuji3 {
+background: white;
+}
+.mokuji3 {
+width: 250px;
+}
+.mokuji3 {
+padding: 10px;
+}
+.mokuji3 {
+margin: 30px auto;
+}
+.mokuji3 {
+border-radius: 10px;
+}
+.mokuji3 a:hover {
+color: #FFBEDA;
+}
+.mokuji3 h3 {
+text-align: center;
+}
