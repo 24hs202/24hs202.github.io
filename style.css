@@ -141,3 +141,44 @@ color: #FF8856;
 .mokuji3 h3 {
 text-align: center;
 }
+
+.冬 {
+background:#A4C6FF	;
+padding: 10px 0 40px 0;
+}
+.冬 h2 {
+color: white;
+text-align: center;
+margin: 40px 0;
+}
+.冬img {
+width: 100%;
+}
+
+.冬 a:hover {
+background: white;
+color:#A4C6FF;
+}
+  
+
+.mokuji4 {
+background: white;
+}
+.mokuji4 {
+width: 250px;
+}
+.mokuji4 {
+padding: 10px;
+}
+.mokuji4 {
+margin: 30px auto;
+}
+.mokuji4 {
+border-radius: 10px;
+}
+.mokuji4 a:hover {
+color: #A4C6FF;
+}
+.mokuji4 h3 {
+text-align: center;
+}
