@@ -189,4 +189,7 @@ background:#FF773E;
 color: white;
 text-align: center;
 padding: 10px 0;
+border: solid 1px white
+padding: 5px 10px;
+  margin: 0 3px;
 }
