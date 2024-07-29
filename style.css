@@ -34,7 +34,10 @@ margin: 40px 0;
 .春img {
 width: 100%;
 }
-
+.春 a:hover {
+background: white;
+color:#FFBEDA	;
+}
 .mokuji {
 background: white;
 }
@@ -108,7 +111,10 @@ margin: 40px 0;
 .秋img {
 width: 100%;
 }
-
+.秋 a:hover {
+background: white;
+color:#FA8072;
+}
 .mokuji3 {
 background: white;
 }
@@ -142,6 +148,10 @@ margin: 40px 0;
 }
 .冬img {
 width: 100%;
+}
+.冬 a:hover {
+background: white;
+color:;#A4C6FF
 }
 
 .mokuji4 {
