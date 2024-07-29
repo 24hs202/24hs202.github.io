@@ -96,7 +96,73 @@ color:#66CC99;
 text-align: center;
 }
 
+.秋 {
+background:#FA8072		;
+padding: 10px 0 40px 0;
+}
+.秋 h2 {
+color: white;
+text-align: center;
+margin: 40px 0;
+}
+.秋img {
+width: 100%;
+}
 
+.mokuji3 {
+background: white;
+}
+.mokuji3 {
+width: 250px;
+}
+.mokuji3 {
+padding: 10px;
+}
+.mokuji3 {
+margin: 30px auto;
+}
+.mokuji3 {
+border-radius: 10px;
+}
+.mokuji3 a:hover {
+color:#FA8072	;
+}
+.mokuji3 h3 {
+text-align: center;
+}
 
+.冬 {
+background:#A4C6FF	;
+padding: 10px 0 40px 0;
+}
+.冬 h2 {
+color: white;
+text-align: center;
+margin: 40px 0;
+}
+.冬img {
+width: 100%;
+}
 
+.mokuji4 {
+background: white;
+}
+.mokuji4 {
+width: 250px;
+}
+.mokuji4 {
+padding: 10px;
+}
+.mokuji4 {
+margin: 30px auto;
+}
+.mokuji4 {
+border-radius: 10px;
+}
+.mokuji4 a:hover {
+color: #A4C6FF;
+}
+.mokuji4 h3 {
+text-align: center;
+}
 
